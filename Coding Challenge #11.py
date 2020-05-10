@@ -24,7 +24,7 @@ available_notes = [50, 100, 200, 500, 2000]
 #     print(amount, counter)
 
 
-amount = 2350
+amount = 2750
 counter = 0
 #while len(available_notes) != 0 or amount != 0:
 max_note = max(available_notes)
